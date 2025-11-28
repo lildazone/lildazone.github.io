@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://www.simform.com/wp-content/uploads/2020/08/Django-Companies-.gif"  />
 </div>
 
 ###
